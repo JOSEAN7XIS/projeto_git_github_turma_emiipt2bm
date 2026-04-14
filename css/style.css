@@ -12,3 +12,18 @@
     background-color: darkcyan;
 
 }
+
+ol li {
+    padding: 10px 0px;
+    margin: 0px 25px;
+
+}
+
+form{
+    background-color: #ffffffff;
+    padding: 15px;
+}
+
+h1, h2{
+    padding: 10px 0px;
+}
